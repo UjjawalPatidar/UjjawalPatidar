@@ -1,4 +1,4 @@
-# 💫 About Me:
+# I'm Ujjawal.
 🚀 Curious developer exploring code, systems, and new technologies<br>💻 Enjoy building small projects and experimenting with ideas<br>📚 Continuously learning and improving programming skills<br>🔍 Interested in how things work under the hood<br>🤝 Open to collaboration, feedback, and new opportunities<br>
 
 
